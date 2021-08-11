@@ -1,4 +1,4 @@
 # PyBer_Analysis
 
 ## OBJECTIVE ##
-I was hired as a data analyst for PyBer- a python based ride sharing application. Pyber tasked me with completing an exploratory analysis over large data sets, and visualize them accordingly.
+I was hired as a data analyst for PyBer- a python based ride sharing application. Pyber tasked me with completing an exploratory analysis over large data sets, and visualize them accordingly. My exploratory analysis allowed Pyber to improve rider accessibility and determine affordability for underserved neighborhoods.
