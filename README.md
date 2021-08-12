@@ -5,4 +5,10 @@ I was intially hired as a data analyst for PyBer- a python based ride sharing ap
 
 
 ## RESULTS ##
-![Pyber Summary Df](https://user-images.githubusercontent.com/77905862/129228753-6db4ae6e-d9fc-4db9-8f16-c575fe6c2f50.png)
+
+
+![Pyber Summary DF](https://user-images.githubusercontent.com/77905862/129231006-c5cc6c41-5d7a-44ff-9a26-c2c752c8416a.png)
+
+
+The Pyber Summary DataFrame focuses on city type (urban, suburban, rural) in relation to average fares, total drivers, and rides. Pyber saw most of it's profitability from urban areas- an expected calculation considering that urban areas are densely populated, which means more drivers, more riders, and lower fares. Shockingly, driver count for suburban areas take a sharp decrease versus its urban counterpart; from 2,405 to 490. Rural riders and drivers are relatively low in correlation to each other, however the avg fare per driver in rural areas is over half the cost for urban areas.
+
