@@ -1,4 +1,14 @@
 # PyBer_Analysis
 
 ## OBJECTIVE ##
-I was intially hired as a data analyst for PyBer- a python based ride sharing application. Pyber tasked me and Omary with submitting an exploratory analysis and visualization over large data sets. My exploratory analysis allowed Pyber to improve rider accessibility and determine affordability for underserved neighborhoods. Once completed, V. Isualize gave us a new assignment: to create a summary DataFrame of the ride-sharing data by city type, utilize Pandas and Matplotlib to display a multiple-line graph. The multi line graph must  the total weekly fares per city. 
+I was intially hired as a data analyst for PyBer- a python based ride sharing application. Pyber tasked me and Omar with submitting an exploratory analysis and visualization over large data sets. My exploratory analysis allowed Pyber to improve rider accessibility, and determine affordability for underserved neighborhoods. Once completed, V. Isualize gave us a new assignment: to create a summary DataFrame of the ride-sharing data by city type, utilizing Pandas and Matplotlib as means to display a multiple-line graph. The multi line graph shows the total fares per city, and I extrapolate on how the data differs per city.
+
+
+## RESULTS ##
+
+
+![Pyber Summary DF](https://user-images.githubusercontent.com/77905862/129231006-c5cc6c41-5d7a-44ff-9a26-c2c752c8416a.png)
+
+
+The Pyber Summary DataFrame focuses on city type (urban, suburban, rural) in relation to average fares, total drivers, and rides. Pyber saw most of it's profitability from urban areas- an expected calculation considering that urban areas are densely populated, which means more drivers, more riders, and lower fares. Shockingly, driver count for suburban areas take a sharp decrease versus its urban counterpart; from 2,405 to 490. Rural riders and drivers are relatively low in correlation to each other, however the avg fare per driver in rural areas is over half the cost for urban areas.
+
